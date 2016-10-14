@@ -1,2 +1,2 @@
-# git_s
-git home study test 
+# git_s_clone
+git and gitclone home study test 
